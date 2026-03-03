@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06j1ij",
+  "description": "https://scrimba.com/learn-tailwind-css-c010/~07gl/s0pdn388rn/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
