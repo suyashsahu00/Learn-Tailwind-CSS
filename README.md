@@ -29,5 +29,10 @@ Just open any `index.html` file in your browser — no build step needed!
 Strengthen my frontend development skills to complement my DSA & backend work
 as I build toward full-stack projects and internship opportunities.
 
-## 🔗 Course
+## � Useful Tools
+
+- [Coolors Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) — Quickly check the contrast ratio between two colors to ensure your text is readable against its background. Great for visualizing color pairs on the fly.
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) — A detailed accessibility tool that evaluates color contrast against **WCAG AA & AAA** standards, helping you meet web accessibility guidelines.
+
+## �🔗 Course
 [Scrimba - Learn Tailwind CSS](https://scrimba.com/learn-tailwind-css-c010)
